@@ -12,4 +12,11 @@ Mendukung upload dan embed file video, image, audio, dan subtitle.
 
 ---
 
-## 🚀 Deploy ke V
+## 🚀 Deploy ke Vercel
+
+### 1. Clone & install
+
+```bash
+git clone https://github.com/kamu/v-cloud.git
+cd v-cloud
+npm install
